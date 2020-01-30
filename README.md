@@ -4,7 +4,7 @@
 ## Guia de treball
 
 ### 1 Organització i presentació del projecte
-(prácrica 1.Anàlisis dels materials)(materials.md)
+(práctica 1.Anàlisis dels materials)(materials.md)
 ### 2 Anàlisis del material
 ### 3 Taller
 ### 4 Taller
