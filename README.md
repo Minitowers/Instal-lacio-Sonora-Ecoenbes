@@ -1,5 +1,5 @@
 # Instal-lacio-Sonora-Ecoenbes
-Instal·lacio Sonora Ecoenbes
+(Instal·lacio Sonora Ecoenbes)(https://github.com/Minitowers/Instal-lacio-Sonora-Ecoenbes/blob/master/README.md)
 
 ## Guia de treball
 
